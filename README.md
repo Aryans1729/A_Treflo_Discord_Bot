@@ -12,8 +12,11 @@ https://atreflodiscordbot.aryans1729.repl.co/
 
 ## 🏹Treflo_Discord_Bot Invite Link :
 ```bash
-https://discord.gg/KW3aUfAG
-Navigate to TDS Discord Channel on top
+1. https://discord.gg/KW3aUfAG
+2. Navigate to TDS Discord Channel on top
+3. In the text Area type the /send_message and provide the necessary fields like in text channel
+   provide treflo channel from options and other details and you will see a sent message in your
+   channel and a embed message recieved on selected channel.
 ```
 
 ## 🏹Command to configure in task:
