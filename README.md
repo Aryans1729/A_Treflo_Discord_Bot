@@ -1,5 +1,10 @@
 # A_Treflo_Discord_Bot
 
+## Ignore Folder:
+Please Ignore the src folder as it contains test code 
+All code is in index.js file in root directory.
+
+
 ## This Treflo_Discord_Bot is deployed on : 
 ```bash
 https://atreflodiscordbot.aryans1729.repl.co/
