@@ -1,6 +1,6 @@
 # A_Treflo_Discord_Bot
 
-##🏹 Ignore Folder:
+## 🏹 Ignore Folder:
 Please Ignore the src folder as it contains test code 
 All code is in index.js file in root directory.
 
@@ -31,7 +31,7 @@ git clone https://github.com/Aryans1729/A_Treflo_Discord_Bot.git
 cd DiscordBot
 ```
 
-##🏹 Install Node modules in the current directory:
+## 🏹 Install Node modules in the current directory:
 ```bash
 npm i
 ```
