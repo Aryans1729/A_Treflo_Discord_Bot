@@ -12,7 +12,7 @@ https://discord.gg/KW3aUfAG
 
 ## Command to configure in task:
 ```bash
-/send_message channel text uri button text
+/send_message channel{provide your channel from options} text{provide text} uri{provide imgage uri} button-text{provide the button text}
 ```
 
 
@@ -39,7 +39,7 @@ nodemon
 ## Try to reach out the API:
 # For to Get All Users WHo interacted with send_message:
 ```bash
-https://atreflodiscordbot.aryans1729.repl.co/
+https://atreflodiscordbot.aryans1729.repl.co/get-all-Users
 ```
 
 
