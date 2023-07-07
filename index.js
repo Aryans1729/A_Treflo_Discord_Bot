@@ -119,7 +119,7 @@ app.post("/users", async (req, res) => {
   try {
     const { username, server, userid, serverid } = req.body;
     let result = await mongoClient.connect();
-    let db = result.db("Treflobot");
+    let db = result.db("test");
     let userData = db.collection("users");
     const check = await userData.findOne({ userid });
     console.log(check);
