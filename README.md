@@ -12,7 +12,7 @@ https://atreflodiscordbot.aryans1729.repl.co/
 
 ## 🏹Treflo_Discord_Bot Invite Link :
 ```bash
-1. https://discord.gg/KW3aUfAG
+1. LINK : https://discord.gg/KW3aUfAG
 2. Navigate to TDS Discord Channel on top
 3. In the text Area type the /send_message and provide the necessary fields like in text channel
    provide treflo channel from options and other details and you will see a sent message in your
@@ -29,7 +29,7 @@ https://atreflodiscordbot.aryans1729.repl.co/
 
 ## 🏹Run these Commands:
 
-Step 1: run this command in terminal to run locally
+Step 1: run this command in terminal to run locally and check code:
 ```bash
 git clone https://github.com/Aryans1729/A_Treflo_Discord_Bot.git
 cd DiscordBot
