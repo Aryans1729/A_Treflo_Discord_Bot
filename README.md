@@ -13,6 +13,7 @@ https://atreflodiscordbot.aryans1729.repl.co/
 ## 🏹Treflo_Discord_Bot Invite Link :
 ```bash
 https://discord.gg/KW3aUfAG
+Navigate to TDS Discord Channel on top
 ```
 
 ## 🏹Command to configure in task:
