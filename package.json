@@ -1,0 +1,21 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Bot"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/core": "^0.6.0",
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1"
+  }
+}
