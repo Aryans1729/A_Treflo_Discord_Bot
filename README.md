@@ -1,22 +1,24 @@
-## A_Treflo_Discord_Bot
+# A_Treflo_Discord_Bot
 
-# This Treflo_Discord_Bot is deployed on : 
+## This Treflo_Discord_Bot is deployed on : 
 ```bash
 https://atreflodiscordbot.aryans1729.repl.co/
 ```
 
-# Treflo_Discord_Bot Invite Link :
+## Treflo_Discord_Bot Invite Link :
 ```bash
 https://discord.gg/KW3aUfAG
 ```
 
-# Command to configure in task:
+## Command to configure in task:
 ```bash
 /send_message channel text uri button text
 ```
 
 
-## Try to  reach out  Treflo_Discord_Bot Code:
+# Try to  reach out  Treflo_Discord_Bot Code:
+
+## Run these Commands:
 
 Step 1: run this command in terminal to run locally
 ```bash
@@ -24,12 +26,12 @@ git clone https://github.com/Aryans1729/A_Treflo_Discord_Bot.git
 cd DiscordBot
 ```
 
-#Install Node modules in the current directory:
+## Install Node modules in the current directory:
 ```bash
 npm i
 ```
 
-#To keep running the server:
+## To keep running the server:
 ```bash
 nodemon
 ```
